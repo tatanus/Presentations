@@ -43,13 +43,13 @@
    - N/A (if you know of a video for this one, let me know)
 
 **HillbillStoryTime PentestFails**
- - GRRCon2019:
+ - GRRCon2019: (I misplaced the slidedeck)
    - [GrrCON 2019 3 10 Hillbilly Storytime Pentest Fails Adam Compton](https://www.youtube.com/watch?v=q5gLhZjTCj0)
  - BsidesCleveland2022: [View PDF](./BsidesCleveland2022/HillbillStoryTime_PentestFails.pdf)
    - N/A (if you know of a video for this one, let me know)
  - BsidesKnoxville2017: [View PDF](./BsidesKnoxville2017/HillbillStoryTime_PentestFails.pdf)
    - [Adam Compton - Hillbilly Storytime - Pentest Fails](https://www.youtube.com/watch?v=GSbKeTPv2TU)
- - BsidesKnoxville2022: (no slide deck for this one)
+ - BsidesKnoxville2022: (no slide deck for this one, bonus impromptu presentation)
    - [Adam Compton - Pentest Fails - Revisited!](https://www.youtube.com/watch?v=kIFTFiAvn58)
  - BsidesLV2018: [View PDF](./BsidesLV2018/HillbillStoryTime_PentestFails.pdf)
    - [BSIDESLV 2018 - Proving Ground - Day Two](https://www.youtube.com/watch?v=W6ixMdtZVFk)
@@ -79,7 +79,7 @@
 **Learn From Your Mistakes**
  - BsidesAtlanta2012: [View PDF](./BsidesAtlanta2012/Learn_From_Your_Mistakes.pdf)
    - N/A (if you know of a video for this one, let me know)
- - BsidesNashville2014
+ - BsidesNashville2014: (I misplaced the slidedeck)
    - [101 learn from your mistakes adam len compton](https://www.youtube.com/watch?v=UTh_n62jsIY)
 
 **PentestFails 2021**
@@ -95,7 +95,7 @@
    - [07 Phishing Groing from Recon to Creds Adam Compton Eric Gershman DerbyCon 5](https://www.youtube.com/watch?v=ZrJM3SYvqIs)
  - HackCon2016: [View PDF](./HackCon2016/SPF.pdf)
    - [HackCON #11 | Infinigate TV with speaker Adam Compton from Rapid 7](https://www.youtube.com/watch?v=l9_zs8rmAYY)
- - BsidesLV2015:
+ - BsidesLV2015: (I misplaced the slidedeck)
    - [PG13 Phishing Going from Recon to Credentials Adam Compton Eric Gershman](https://www.youtube.com/watch?v=TtgJ3DaMtAo)
 
 **Teaching An Old Pentester New Tricks**
