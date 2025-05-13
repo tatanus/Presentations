@@ -106,6 +106,15 @@
  - Derbycon2019: [View PDF](./Derbycon2019/Unix_The_Other_White_Meat.pdf)
    - [Unix the Other White Meat Adam Compton David Boyd   DerbyCon 9](https://www.youtube.com/watch?v=LyP_mmJlJxE)
 
+**Tool Demos**
+ - BlackHat US Tools Arsenal 2015: SPF
+ - Defcon 23 (2015): SPF
+ - BlackHat US Tools Arsenal 2016: APT2
+ - Defcon 24 (2016): APT2
+ - BlackHat Europe Tools Arsenal 2016: APT2
+ - BlackHat US Tools Arsenal 2017: Legion
+ - BlackHat Asia Tools Arsenal 2018: APT2
+
 **Other Webinars/etc**
  - **Career Path**
    - WebinarTrustedSec: [View PDF](./WebinarTrustedSec/Career_Path_2018.pdf)
