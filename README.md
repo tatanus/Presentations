@@ -107,7 +107,7 @@
    - [Unix the Other White Meat Adam Compton David Boyd   DerbyCon 9](https://www.youtube.com/watch?v=LyP_mmJlJxE)
 
 **Other Webinars/etc**
- **Career Path**
+ - **Career Path**
    - WebinarTrustedSec: [View PDF](./WebinarTrustedSec/Career_Path_2018.pdf)
      - [Webinar: Creating your Career Path in Information Security](https://www.youtube.com/watch?v=r-c24tAmOcU)
  
