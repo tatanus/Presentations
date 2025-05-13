@@ -4,7 +4,7 @@
  - Videos
    - [112 Scripting Myself Out of a Job Automating the Penetration Test with APT2 Adam Compton](https://www.youtube.com/watch?v=VQxJsLLQ5oY)
    - [313 Scripting Myself Out of a Job Automating the Penetration Test with APT2 Adam Compton Austin Lane](https://www.youtube.com/watch?v=XyrZhvDNrIM)
-   - [Scripting Myself Out of a Job - Automating the Penetration Test with APT2 - Adam Compton](https://www.youtube.com/watch?v=psBtbekLntg) (2016-06-03)
+   - [Scripting Myself Out of a Job - Automating the Penetration Test with APT2 - Adam Compton](https://www.youtube.com/watch?v=psBtbekLntg)
  - Slide Decks
    - BsidesKnoxville2016: [View PDF](./BsidesKnoxville2016/APT2.pdf)
    - Derbycon2016: [View PDF](./Derbycon2016/APT2.pdf)
@@ -17,7 +17,7 @@
 
 **Baby C2**
  - Videos
-   - [Adam Compton: A Hillbilly's First C2](https://www.youtube.com/watch?v=mkgnFqAWPr4) (2024-11-07)
+   - [Adam Compton: A Hillbilly's First C2](https://www.youtube.com/watch?v=mkgnFqAWPr4)
  - Slide Decks
    - BsidesKnoxville2024: [View PDF](./BsidesKnoxville2024/Baby_C2.pdf)
 
@@ -28,12 +28,13 @@
 
 **Finding My Way in InfoSec**
  - Videos
+   - [KEYNOTE Adam Compton - Hillbilly Storytime: Fails, Fumbles, and Finding My Way in InfoSec](https://www.youtube.com/watch?v=EBQw-Asl_e0)
  - Slide Decks
    - SecureWV2024: [View PDF](./SecureWV2024/Finding_My_Way_in_InfoSec.pdf)
 
 **Finding You Home in InfoSec**
  - Videos
-   - [Adam Compton - Finding Your Home in Infosec: To Specialize or Not](https://www.youtube.com/watch?v=6WT7RCgbxHw) (2023-05-28)
+   - [Adam Compton - Finding Your Home in Infosec: To Specialize or Not](https://www.youtube.com/watch?v=6WT7RCgbxHw)
  - Slide Decks
    - BsidesKnoxville2023: [View PDF](./BsidesKnoxville2023/Finding_You_Home_in_InfoSec.pdf)
 
@@ -63,12 +64,8 @@
    - [Adam Compton - Pentest Fails - Revisited!](https://www.youtube.com/watch?v=kIFTFiAvn58) (2022-05-28)
    - [BSIDESLV 2018 - Proving Ground - Day Two](https://www.youtube.com/watch?v=W6ixMdtZVFk) (2018-08-09)
    - [BSides Nashville 2018 Red 02 Hillbilly Storytime Pentest Fails Adam Compton](https://www.youtube.com/watch?v=v5_KRQABXXc) (2018-04-14)
-   - [GF - Hillbilly Storytime - Pentest Fails - Adam Compton](https://www.youtube.com/watch?v=JvQvyy2skUk) (2018-09-20)
    - [GrrCON 2019 3 10 Hillbilly Storytime Pentest Fails Adam Compton](https://www.youtube.com/watch?v=q5gLhZjTCj0) (2019-10-24)
    - [Hillbilly Storytime Pentest Fails Adam Compton   DerbyCon 8](https://www.youtube.com/watch?v=Sh4_aJ4wbsc) (2022-05-05)
-   - [Hillbilly Storytime Pentest Fails Adam Compton](https://www.youtube.com/watch?v=8RbgK2dW2PE) (2022-07-31)
-   - [KEYNOTE Adam Compton - Hillbilly Storytime: Fails, Fumbles, and Finding My Way in InfoSec](https://www.youtube.com/watch?v=EBQw-Asl_e0) (2024-11-12)
-   - [Track 3 20 Hillbilly Storytime Pentest Fails Adam Compton](https://www.youtube.com/watch?v=auzjOr7B8qU) (2018-10-07)
    - [Speaker11 Hillbilly Storytime Pentest Fails Adam Compton](https://www.youtube.com/watch?v=BPneCzGbPOc) (2017-11-18)
  - Slide Decks
    - BsidesCleveland2022: [View PDF](./BsidesCleveland2022/HillbillStoryTime_PentestFails.pdf)
