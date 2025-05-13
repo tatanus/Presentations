@@ -2,6 +2,8 @@
 
 **APT2**
  - Videos
+   - [112 Scripting Myself Out of a Job Automating the Penetration Test with APT2 Adam Compton](https://www.youtube.com/watch?v=VQxJsLLQ5oY)
+   - [313 Scripting Myself Out of a Job Automating the Penetration Test with APT2 Adam Compton Austin Lane](https://www.youtube.com/watch?v=XyrZhvDNrIM)
  - Slide Decks
    - BsidesKnoxville2016: [View PDF](./BsidesKnoxville2016/APT2.pdf)
    - Derbycon2016: [View PDF](./Derbycon2016/APT2.pdf)
@@ -34,6 +36,7 @@
 
 **Finding Your Home in InfoSec**
  - Videos
+   - [Adam Compton   Finding your Home in Infosec - SECUREWV 14 REBOOT](https://www.youtube.com/watch?v=v61cHOAfmSc) (2024-02-29)
  - Slide Decks
    - SecureWV2023: [View PDF](./SecureWV2023/Finding_Your_Home_in_InfoSec.pdf)
 
@@ -44,6 +47,7 @@
 
 **Guide to Staying Anonymous Online**
  - Videos
+   - [Adam Compton - A Hillbilly's Guide to Staying Anonymous Online](https://www.youtube.com/watch?v=xPEboNcV_ak) (2020-05-02)
  - Slide Decks
    - BsidesKnoxville2020: [View PDF](./BsidesKnoxville2020/Guide_to_Staying_Anonymous_Online.pdf)
    - SecureWV2020: [View PDF](./SecureWV2020/Guide_to_Staying_Anonymous_Online.pdf)
@@ -73,8 +77,10 @@
 
 **Learn From Your Mistakes**
  - Videos
+   - [101 learn from your mistakes adam len compton](https://www.youtube.com/watch?v=UTh_n62jsIY)
  - Slide Decks
    - BsidesAtlanta2012: [View PDF](./BsidesAtlanta2012/Learn_From_Your_Mistakes.pdf)
+   - BsidesNashville2014
 
 **PentestFails 2021**
  - Videos
@@ -83,6 +89,7 @@
 
 **SPF**
  - Videos
+  - [07 Phishing Groing from Recon to Creds Adam Compton Eric Gershman DerbyCon 5](https://www.youtube.com/watch?v=ZrJM3SYvqIs)
  - Slide Decks
    - BlackHatSEVillage2015: [View PDF](./BlackHatSEVillage2015/SPF.pdf)
    - BsidesKnoxville2015: [View PDF](./BsidesKnoxville2015/SPF.pdf)
@@ -101,6 +108,7 @@
 
 **Unix The Other White Meat**
  - Videos
+   - [3 13 Unix the Other White Meat Adam Compton David Boyd](https://www.youtube.com/watch?v=mJCfBr97hW4)
  - Slide Decks
    - BsidesCleveland2019: [View PDF](./BsidesCleveland2019/Unix_The_Other_White_Meat.pdf)
    - BsidesKnoxville2019: [View PDF](./BsidesKnoxville2019/Unix_The_Other_White_Meat.pdf)
@@ -108,15 +116,6 @@
 
 **TO BE SORTED**
  - Videos
-   - [3 13 Unix the Other White Meat Adam Compton David Boyd](https://www.youtube.com/watch?v=mJCfBr97hW4) (2019-09-08)
-   - [07 Phishing Groing from Recon to Creds Adam Compton Eric Gershman   DerbyCon 5](https://www.youtube.com/watch?v=ZrJM3SYvqIs) (2022-05-01)
-   - [101 learn from your mistakes adam len compton](https://www.youtube.com/watch?v=UTh_n62jsIY) (2014-05-17)
-   - [112 Scripting Myself Out of a Job Automating the Penetration Test with APT2 Adam Compton](https://www.youtube.com/watch?v=VQxJsLLQ5oY) (2016-11-19)
-   - [313 Scripting Myself Out of a Job Automating the Penetration Test with APT2 Adam Compton Austin Lane](https://www.youtube.com/watch?v=XyrZhvDNrIM) (2016-09-25)
-   - [313 Scripting Myself Out of a Job Automating the Penetration Test with APT2 Adam Compton Austin Lane](https://www.youtube.com/watch?v=dYz5KE6YWFU) (2022-05-04)
-   - [313 Scripting Myself Out of a Job Automating the Penetration Test with APT2 Adam Compton Austin Lane](https://www.youtube.com/watch?v=s37KxTl4R9Q) (2016-09-25)
-   - [Adam Compton   Finding your Home in Infosec - SECUREWV 14 REBOOT](https://www.youtube.com/watch?v=v61cHOAfmSc) (2024-02-29)
-   - [Adam Compton - A Hillbilly's Guide to Staying Anonymous Online](https://www.youtube.com/watch?v=xPEboNcV_ak) (2020-05-02)
    - [Adam Compton - Finding Your Home in Infosec: To Specialize or Not](https://www.youtube.com/watch?v=6WT7RCgbxHw) (2023-05-28)
    - [Adam Compton - Hillbilly Storytime (2022 Edition) - Pentest Fails - LUCKY TH1RT3EN](https://www.youtube.com/watch?v=OyE_lSSaQfI) (2023-02-10)
    - [Adam Compton - Hillbilly Storytime - Pentest Fails](https://www.youtube.com/watch?v=GSbKeTPv2TU) (2017-06-25)
