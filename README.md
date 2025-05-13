@@ -45,6 +45,7 @@
 
 **FullAuto OSINT**
  - Videos
+   - [BSides Knoxville 2018 (Second Track, KEC, afternoon sessions)](https://www.youtube.com/watch?v=OOl6zSn5OeI) (2018-05-19)
  - Slide Decks
    - BsidesKnoxville2018: [View PDF](./BsidesKnoxville2018/FullAuto_OSINT.pdf)
 
@@ -145,7 +146,6 @@
    - BsidesKnoxville2019: [View PDF](./BsidesKnoxville2019/Unix_The_Other_White_Meat.pdf)
    - Derbycon2019: [View PDF](./Derbycon2019/Unix_The_Other_White_Meat.pdf)
 
-**TO BE SORTED**
+**Other Webinars/etc**
  - Videos
-   - [BSides Knoxville 2018 (Second Track, KEC, afternoon sessions)](https://www.youtube.com/watch?v=OOl6zSn5OeI) (2018-05-19)
    - [Webinar: Who's Winning the Red vs Blue Team Arms Race?](https://www.youtube.com/watch?v=IaJ3OQDoDvI) (2023-03-08)
