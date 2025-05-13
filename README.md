@@ -41,7 +41,7 @@
  - SecureWV2020: [View PDF](./SecureWV2020/Guide_to_Staying_Anonymous_Online.pdf)
 
 **HillbillStoryTime PentestFails**
-  - GRRCon2019:
+ - GRRCon2019:
    - [GrrCON 2019 3 10 Hillbilly Storytime Pentest Fails Adam Compton](https://www.youtube.com/watch?v=q5gLhZjTCj0)
  - BsidesCleveland2022: [View PDF](./BsidesCleveland2022/HillbillStoryTime_PentestFails.pdf)
  - BsidesKnoxville2017: [View PDF](./BsidesKnoxville2017/HillbillStoryTime_PentestFails.pdf)
