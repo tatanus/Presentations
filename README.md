@@ -109,7 +109,7 @@
 **Other Webinars/etc**
  **Career Path**
    - WebinarTrustedSec: [View PDF](./WebinarTrustedSec/Career_Path_2018.pdf)
- - [Webinar: Creating your Career Path in Information Security](https://www.youtube.com/watch?v=r-c24tAmOcU)
+     - [Webinar: Creating your Career Path in Information Security](https://www.youtube.com/watch?v=r-c24tAmOcU)
  
  - [Webinar: Who's Winning the Red vs Blue Team Arms Race?](https://www.youtube.com/watch?v=IaJ3OQDoDvI)
  - [Ask Me Anything: Pen Testing from a Hacker's Perspective](https://www.youtube.com/watch?v=BeKBhtfMX6c)
