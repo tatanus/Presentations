@@ -10,6 +10,7 @@
 
 **BASH FOR PENTESTS**
  - BsidesKnoxville2025: [View PDF](./BsidesKnoxville2025/BASH_FOR_PENTESTS.pdf)
+   - N/A 
 
 **Baby C2**
  - BsidesKnoxville2024: [View PDF](./BsidesKnoxville2024/Baby_C2.pdf)
@@ -39,11 +40,13 @@
  - BsidesKnoxville2020: [View PDF](./BsidesKnoxville2020/Guide_to_Staying_Anonymous_Online.pdf)
    - [Adam Compton - A Hillbilly's Guide to Staying Anonymous Online](https://www.youtube.com/watch?v=xPEboNcV_ak)
  - SecureWV2020: [View PDF](./SecureWV2020/Guide_to_Staying_Anonymous_Online.pdf)
+   - N/A
 
 **HillbillStoryTime PentestFails**
  - GRRCon2019:
    - [GrrCON 2019 3 10 Hillbilly Storytime Pentest Fails Adam Compton](https://www.youtube.com/watch?v=q5gLhZjTCj0)
  - BsidesCleveland2022: [View PDF](./BsidesCleveland2022/HillbillStoryTime_PentestFails.pdf)
+   - N/A
  - BsidesKnoxville2017: [View PDF](./BsidesKnoxville2017/HillbillStoryTime_PentestFails.pdf)
    - [Adam Compton - Hillbilly Storytime - Pentest Fails](https://www.youtube.com/watch?v=GSbKeTPv2TU)
  - BsidesKnoxville2022:
@@ -55,15 +58,19 @@
  - Derbycon2018: [View PDF](./Derbycon2018/HillbillStoryTime_PentestFails.pdf)
    - [Hillbilly Storytime Pentest Fails Adam Compton   DerbyCon 8](https://www.youtube.com/watch?v=Sh4_aJ4wbsc)
  - HackerHalted2018: [View PDF](./HackerHalted2018/HillbillStoryTime_PentestFails.pdf)
+   - N/A
  - InfoSecEurope2017: [View PDF](./InfoSecEurope2017/HillbillStoryTime_PentestFails.pdf)
+   - N/A
  - SecureWV2017: [View PDF](./SecureWV2017/HillbillStoryTime_PentestFails.pdf)
    - [Speaker11 Hillbilly Storytime Pentest Fails Adam Compton](https://www.youtube.com/watch?v=BPneCzGbPOc)
  - SecureWV2022:
    - [Adam Compton - Hillbilly Storytime (2022 Edition) - Pentest Fails - LUCKY TH1RT3EN](https://www.youtube.com/watch?v=OyE_lSSaQfI)
  - WWHF2018: [View PDF](./WWHF2018/HillbillStoryTime_PentestFails.pdf)
+   - N/A
 
 **How I Became a Pentester**
  - BsidesNashville2019: [View PDF](./BsidesNashville2019/How_I_Became_a_Pentester.pdf)
+   - N/A
 
 **How We Created Our Own C2**
  - Derbycon2017: [View PDF](./Derbycon2017/How_We_Created_Our_Own_C2.pdf)
@@ -71,6 +78,7 @@
 
 **Learn From Your Mistakes**
  - BsidesAtlanta2012: [View PDF](./BsidesAtlanta2012/Learn_From_Your_Mistakes.pdf)
+   - N/A
  - BsidesNashville2014
    - [101 learn from your mistakes adam len compton](https://www.youtube.com/watch?v=UTh_n62jsIY)
 
