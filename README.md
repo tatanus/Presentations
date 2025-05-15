@@ -39,6 +39,7 @@
 **HillbillStoryTime PentestFails**
  - BsidesKnoxville2017: [View PDF](./BsidesKnoxville2017/HillbillStoryTime_PentestFails.pdf)
    - [Adam Compton - Hillbilly Storytime - Pentest Fails](https://www.youtube.com/watch?v=GSbKeTPv2TU)
+ - CarolinaCon2017:
  - InfoSecEurope2017: [View PDF](./InfoSecEurope2017/HillbillStoryTime_PentestFails.pdf)
    - N/A (if you know of a video for this one, let me know)
  - SecureWV2017: [View PDF](./SecureWV2017/HillbillStoryTime_PentestFails.pdf)
