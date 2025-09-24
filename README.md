@@ -14,9 +14,9 @@
  - WebinarTrustedSec2025:
    - N/A (not posted yet)
  - GRRCon2025:
-   -
+   - N/A (not posted yet)
  - SecureWV2025:
-   -
+   - N/A (not posted yet)
 
 **Baby C2**
  - BsidesKnoxville2024: [View PDF](./BsidesKnoxville2024/Baby_C2.pdf)
