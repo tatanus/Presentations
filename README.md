@@ -11,6 +11,12 @@
 **BASH FOR PENTESTS**
  - BsidesKnoxville2025: [View PDF](./BsidesKnoxville2025/BASH_FOR_PENTESTS.pdf)
    - N/A (not posted yet)
+ - WebinarTrustedSec2025:
+   - N/A (not posted yet)
+ - GRRCon2025:
+   -
+ - SecureWV2025:
+   -
 
 **Baby C2**
  - BsidesKnoxville2024: [View PDF](./BsidesKnoxville2024/Baby_C2.pdf)
@@ -65,6 +71,10 @@
    - [Adam Compton - Pentest Fails - Revisited!](https://www.youtube.com/watch?v=kIFTFiAvn58)
  - BsidesCleveland2022: [View PDF](./BsidesCleveland2022/HillbillStoryTime_PentestFails.pdf)
    - N/A (if you know of a video for this one, let me know)
+ - Layer8Conference2025:
+   - N/A (No videos were recorded)
+ - DC865 September 2025 Meeting:
+   - N/A (No video was recorded)
 
 **How I Became a Pentester**
  - BsidesNashville2019: [View PDF](./BsidesNashville2019/How_I_Became_a_Pentester.pdf)
