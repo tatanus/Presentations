@@ -1,15 +1,15 @@
 # Presentation Archive
 
 **APT2**
- - BsidesKnoxville2016: [View PDF](https://github.com/tatanus/Presentations/BsidesKnoxville2016/APT2.pdf)
+ - BsidesKnoxville2016: [View PDF](https://github.com/tatanus/Presentations/blob/main/BsidesKnoxville2016/APT2.pdf)
    - [Scripting Myself Out of a Job - Automating the Penetration Test with APT2 - Adam Compton](https://www.youtube.com/watch?v=psBtbekLntg)
- - Derbycon2016: [View PDF](https://github.com/tatanus/Presentations/Derbycon2016/APT2.pdf)
+ - Derbycon2016: [View PDF](https://github.com/tatanus/Presentations/blob/main/Derbycon2016/APT2.pdf)
    - [313 Scripting Myself Out of a Job Automating the Penetration Test with APT2 Adam Compton Austin Lane](https://www.youtube.com/watch?v=XyrZhvDNrIM)
- - SecureWV2016: [View PDF](https://github.com/tatanus/Presentations/SecureWV2016/APT2.pdf)
+ - SecureWV2016: [View PDF](https://github.com/tatanus/Presentations/blob/main/SecureWV2016/APT2.pdf)
    - [112 Scripting Myself Out of a Job Automating the Penetration Test with APT2 Adam Compton](https://www.youtube.com/watch?v=VQxJsLLQ5oY)
 
 **BASH FOR PENTESTS**
- - BsidesKnoxville2025: [View PDF](https://github.com/tatanus/Presentations/BsidesKnoxville2025/BASH_FOR_PENTESTS.pdf)
+ - BsidesKnoxville2025: [View PDF](https://github.com/tatanus/Presentations/blob/main/BsidesKnoxville2025/BASH_FOR_PENTESTS.pdf)
    - N/A (not posted yet)
  - WebinarTrustedSec2025:
    - N/A (not posted yet)
@@ -19,57 +19,57 @@
    - N/A (not posted yet)
 
 **Baby C2**
- - BsidesKnoxville2024: [View PDF](https://github.com/tatanus/Presentations/BsidesKnoxville2024/Baby_C2.pdf)
+ - BsidesKnoxville2024: [View PDF](https://github.com/tatanus/Presentations/blob/main/BsidesKnoxville2024/Baby_C2.pdf)
    - [Adam Compton: A Hillbilly's First C2](https://www.youtube.com/watch?v=mkgnFqAWPr4)
 
 **Finding My Way in InfoSec**
- - SecureWV2024: [View PDF](https://github.com/tatanus/Presentations/SecureWV2024/Finding_My_Way_in_InfoSec.pdf)
+ - SecureWV2024: [View PDF](https://github.com/tatanus/Presentations/blob/main/SecureWV2024/Finding_My_Way_in_InfoSec.pdf)
    - [KEYNOTE Adam Compton - Hillbilly Storytime: Fails, Fumbles, and Finding My Way in InfoSec](https://www.youtube.com/watch?v=EBQw-Asl_e0)
 
 **Finding Your Home in InfoSec**
- - SecureWV2023: [View PDF](https://github.com/tatanus/Presentations/SecureWV2023/Finding_Your_Home_in_InfoSec.pdf)
+ - SecureWV2023: [View PDF](https://github.com/tatanus/Presentations/blob/main/SecureWV2023/Finding_Your_Home_in_InfoSec.pdf)
    - [Adam Compton   Finding your Home in Infosec - SECUREWV 14 REBOOT](https://www.youtube.com/watch?v=v61cHOAfmSc)
- - BsidesKnoxville2023: [View PDF](https://github.com/tatanus/Presentations/BsidesKnoxville2023/Finding_You_Home_in_InfoSec.pdf)
+ - BsidesKnoxville2023: [View PDF](https://github.com/tatanus/Presentations/blob/main/BsidesKnoxville2023/Finding_You_Home_in_InfoSec.pdf)
    - [Adam Compton - Finding Your Home in Infosec: To Specialize or Not](https://www.youtube.com/watch?v=6WT7RCgbxHw)
 
 **FullAuto OSINT**
- - BsidesKnoxville2018: [View PDF](https://github.com/tatanus/Presentations/BsidesKnoxville2018/FullAuto_OSINT.pdf)
+ - BsidesKnoxville2018: [View PDF](https://github.com/tatanus/Presentations/blob/main/BsidesKnoxville2018/FullAuto_OSINT.pdf)
    - [BSides Knoxville 2018 (Second Track, KEC, afternoon sessions)](https://www.youtube.com/watch?v=OOl6zSn5OeI)
 
 **Guide to Staying Anonymous Online**
- - BsidesKnoxville2020: [View PDF](https://github.com/tatanus/Presentations/BsidesKnoxville2020/Guide_to_Staying_Anonymous_Online.pdf)
+ - BsidesKnoxville2020: [View PDF](https://github.com/tatanus/Presentations/blob/main/BsidesKnoxville2020/Guide_to_Staying_Anonymous_Online.pdf)
    - [Adam Compton - A Hillbilly's Guide to Staying Anonymous Online](https://www.youtube.com/watch?v=xPEboNcV_ak)
- - SecureWV2020: [View PDF](https://github.com/tatanus/Presentations/SecureWV2020/Guide_to_Staying_Anonymous_Online.pdf)
+ - SecureWV2020: [View PDF](https://github.com/tatanus/Presentations/blob/main/SecureWV2020/Guide_to_Staying_Anonymous_Online.pdf)
    - N/A (if you know of a video for this one, let me know)
 
 **HillbillStoryTime PentestFails**
- - BsidesKnoxville2017: [View PDF](https://github.com/tatanus/Presentations/BsidesKnoxville2017/HillbillStoryTime_PentestFails.pdf)
+ - BsidesKnoxville2017: [View PDF](https://github.com/tatanus/Presentations/blob/main/BsidesKnoxville2017/HillbillStoryTime_PentestFails.pdf)
    - [Adam Compton - Hillbilly Storytime - Pentest Fails](https://www.youtube.com/watch?v=GSbKeTPv2TU)
  - CarolinaCon2017: (I misplaced the slidedeck)
    - N/A (if you know of a video for this one, let me know)
- - InfoSecEurope2017: [View PDF](https://github.com/tatanus/Presentations/InfoSecEurope2017/HillbillStoryTime_PentestFails.pdf)
+ - InfoSecEurope2017: [View PDF](https://github.com/tatanus/Presentations/blob/main/InfoSecEurope2017/HillbillStoryTime_PentestFails.pdf)
    - N/A (if you know of a video for this one, let me know)
- - SecureWV2017: [View PDF](https://github.com/tatanus/Presentations/SecureWV2017/HillbillStoryTime_PentestFails.pdf)
+ - SecureWV2017: [View PDF](https://github.com/tatanus/Presentations/blob/main/SecureWV2017/HillbillStoryTime_PentestFails.pdf)
    - [Speaker11 Hillbilly Storytime Pentest Fails Adam Compton](https://www.youtube.com/watch?v=BPneCzGbPOc)
- - WWHF2018: [View PDF](https://github.com/tatanus/Presentations/WWHF2018/HillbillStoryTime_PentestFails.pdf)
+ - WWHF2018: [View PDF](https://github.com/tatanus/Presentations/blob/main/WWHF2018/HillbillStoryTime_PentestFails.pdf)
    - N/A (if you know of a video for this one, let me know)
- - HackerHalted2018: [View PDF](https://github.com/tatanus/Presentations/HackerHalted2018/HillbillStoryTime_PentestFails.pdf)
+ - HackerHalted2018: [View PDF](https://github.com/tatanus/Presentations/blob/main/HackerHalted2018/HillbillStoryTime_PentestFails.pdf)
    - N/A (if you know of a video for this one, let me know)
- - BsidesLV2018: [View PDF](https://github.com/tatanus/Presentations/BsidesLV2018/HillbillStoryTime_PentestFails.pdf)
+ - BsidesLV2018: [View PDF](https://github.com/tatanus/Presentations/blob/main/BsidesLV2018/HillbillStoryTime_PentestFails.pdf)
    - [BSIDESLV 2018 - Proving Ground - Day Two](https://www.youtube.com/watch?v=W6ixMdtZVFk)
- - BsidesNashville2018: [View PDF](https://github.com/tatanus/Presentations/BsidesNashville2018/HillbillStoryTime_PentestFails.pdf)
+ - BsidesNashville2018: [View PDF](https://github.com/tatanus/Presentations/blob/main/BsidesNashville2018/HillbillStoryTime_PentestFails.pdf)
    - [BSides Nashville 2018 Red 02 Hillbilly Storytime Pentest Fails Adam Compton](https://www.youtube.com/watch?v=v5_KRQABXXc)
- - Derbycon2018: [View PDF](https://github.com/tatanus/Presentations/Derbycon2018/HillbillStoryTime_PentestFails.pdf)
+ - Derbycon2018: [View PDF](https://github.com/tatanus/Presentations/blob/main/Derbycon2018/HillbillStoryTime_PentestFails.pdf)
    - [Hillbilly Storytime Pentest Fails Adam Compton   DerbyCon 8](https://www.youtube.com/watch?v=Sh4_aJ4wbsc)
  - GRRCon2019: (I misplaced the slidedeck)
    - [GrrCON 2019 3 10 Hillbilly Storytime Pentest Fails Adam Compton](https://www.youtube.com/watch?v=q5gLhZjTCj0)
- - WebinarTrustedSec2021: [View PDF](https://github.com/tatanus/Presentations/WebinarTrustedSec/PentestFails_2021.pdf)
+ - WebinarTrustedSec2021: [View PDF](https://github.com/tatanus/Presentations/blob/main/WebinarTrustedSec/PentestFails_2021.pdf)
    - [Webinar: PenTesting Fails - What To Do When You Make (a Lot of) Mistakes in InfoSec](https://www.youtube.com/watch?v=ZAbqBCvzGFA)
  - SecureWV2022: (I misplaced the slidedeck)
    - [Adam Compton - Hillbilly Storytime (2022 Edition) - Pentest Fails - LUCKY TH1RT3EN](https://www.youtube.com/watch?v=OyE_lSSaQfI)
  - BsidesKnoxville2022: (no slide deck for this one, bonus impromptu presentation)
    - [Adam Compton - Pentest Fails - Revisited!](https://www.youtube.com/watch?v=kIFTFiAvn58)
- - BsidesCleveland2022: [View PDF](https://github.com/tatanus/Presentations/BsidesCleveland2022/HillbillStoryTime_PentestFails.pdf)
+ - BsidesCleveland2022: [View PDF](https://github.com/tatanus/Presentations/blob/main/BsidesCleveland2022/HillbillStoryTime_PentestFails.pdf)
    - N/A (if you know of a video for this one, let me know)
  - Layer8Conference2025:
    - N/A (No videos were recorded)
@@ -77,7 +77,7 @@
    - N/A (No video was recorded)
 
 **How I Became a Pentester**
- - BsidesNashville2019: [View PDF](https://github.com/tatanus/Presentations/BsidesNashville2019/How_I_Became_a_Pentester.pdf)
+ - BsidesNashville2019: [View PDF](https://github.com/tatanus/Presentations/blob/main/BsidesNashville2019/How_I_Became_a_Pentester.pdf)
    - N/A (if you know of a video for this one, let me know)
 
 **How We Created Our Own C2**
